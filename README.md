@@ -1,1 +1,2 @@
-My first readme
+My first readme 
+The project for ALX Pre-Course
